@@ -1,1 +1,1 @@
-module.exports={content:["./src/**/*.{html,js}"],darkMode:"class",theme:{extend:{screens:{tablet:"630px",laptop:"1050px"},fontFamily:{sans:["vazir","sans-serif"]},colors:{loafer:"#EDF5E1",catalinaBlue:"#05386B",pastelGreen:"#27b265",lochinvar:"#379683"}}},plugins:[]};
+module.exports={content:["./assets/**/*.{html,js}","*.html"],darkMode:"class",theme:{extend:{screens:{tablet:"630px",laptop:"1050px"},fontFamily:{sans:["sans-serif"]},colors:{loafer:"#EDF5E1",catalinaBlue:"#05386B",pastelGreen:"#27b265",lochinvar:"#379683"}}},plugins:[]};
