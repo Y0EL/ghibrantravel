@@ -1,3 +1,4 @@
+/* DO NOT FORMAT(BEAUTIFY) THIS FILE! */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -43,24 +44,24 @@
         @apply rounded border-2 border-catalinaBlue bg-catalinaBlue space-x-1 px-0.5 relative dark:border-pastelGreen;
     }
     .skills-battery-charge-full {
-        @apply px-2.5 tablet: py-0.5 bg-green-500 rounded-sm dark:bg-pastelGreen;
+        @apply px-2.5 tablet:py-0.5 bg-green-500 rounded-sm dark:bg-pastelGreen;
     }
     .skills-battery-charge-empty {
-        @apply px-2.5 tablet: py-0.5 bg-green-200 rounded-sm;
+        @apply px-2.5 tablet:py-0.5 bg-green-200 rounded-sm;
     }
     .history-date {
         @apply bg-catalinaBlue text-loafer px-3 py-1 text-xs rounded-md inline-block tablet:text-base dark:bg-lochinvar;
     }
     .history-text {
-        @apply leading-7 pb-3 tablet: text-justify tablet:mt-8 tablet:text-lg laptop:pb-5 laptop:leading-8 laptop:font-medium dark:text-gray-300;
+        @apply leading-7 pb-3 tablet:text-justify tablet:mt-8 tablet:text-lg laptop:pb-5 laptop:leading-8 laptop:font-medium dark:text-gray-300;
     }
     /* resume end */
     /* portfolio start */
     .mobile-portfolio-item {
-        @apply relative h-60 bg-cover bg-center flex justify-center items-end rounded-lg overflow-hidden tablet: w-96;
+        @apply relative h-60 bg-cover bg-center flex justify-center items-end rounded-lg overflow-hidden tablet:w-96;
     }
     .mobile-portfolio-item-link {
-        @apply w-full bg-gray-900 bg-opacity-70 text-center font-[600] py-1 hover:bg-opacity-75;
+        @apply w-full bg-gray-900 bg-opacity-70 text-center font-[600] py-1 hover:bg-opacity-75; 
     }
     .laptop-portfolio-slite-item {
         @apply flex flex-col items-center justify-center w-full h-full bg-lochinvar pb-40 px-7;
