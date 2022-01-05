@@ -31,7 +31,7 @@
         @apply flex items-start justify-center tablet:h-[10%];
     }
     .section-header-span {
-        @apply border-b-4 rounded-b border-catalinaBlue font-semibold tracking-widest text-2xl inline pb-1.5 px-3 mt-3 mb-7 laptop:text-3xl dark:border-pastelGreen;
+        @apply border-b-4 rounded-b border-catalinaBlue font-semibold tracking-widest text-2xl inline pb-1.5 px-3 mt-3 mb-7 laptop:text-3xl dark:border-jungleGreen;
     }
     /* main headers end */
     /* about start */
@@ -41,10 +41,10 @@
     /* about end */
     /* resume start */
     .skills-battery-body {
-        @apply rounded border-2 border-catalinaBlue bg-catalinaBlue space-x-1 px-0.5 relative dark:border-pastelGreen;
+        @apply rounded border-2 border-catalinaBlue bg-catalinaBlue space-x-1 px-0.5 relative dark:border-jungleGreen;
     }
     .skills-battery-charge-full {
-        @apply px-2.5 tablet:py-0.5 bg-green-500 rounded-sm dark:bg-pastelGreen;
+        @apply px-2.5 tablet:py-0.5 bg-green-500 rounded-sm dark:bg-jungleGreen;
     }
     .skills-battery-charge-empty {
         @apply px-2.5 tablet:py-0.5 bg-green-200 rounded-sm;
@@ -72,10 +72,10 @@
         @apply rounded-2xl flex flex-col justify-center items-center bg-lochinvar mx-auto p-4 text-center overflow-hidden relative tablet:w-[296px] laptop:p-0 laptop:h-64 laptop:w-64 laptop:justify-start dark:bg-sky-800;
     }
     .services-box-item-icon {
-        @apply h-16 w-16 rounded-full mx-auto bg-sky-700 p-2.5 laptop:w-full laptop:h-full laptop:p-20 laptop:rounded-none laptop:group-hover:w-20 laptop:group-hover:h-20 laptop:group-hover:mt-5 laptop:group-hover:p-2 dark:bg-pastelGreen;
+        @apply h-16 w-16 rounded-full mx-auto bg-sky-700 p-2.5 laptop:w-full laptop:h-full laptop:p-20 laptop:rounded-none laptop:group-hover:w-20 laptop:group-hover:h-20 laptop:group-hover:mt-5 laptop:group-hover:p-2 dark:bg-jungleGreen;
     }
     .services-facts-item {
-        @apply h-20 w-20 mx-auto ring-8 ring-sky-700 rounded-full p-2 mb-5 laptop:w-24 laptop:h-24 dark:ring-pastelGreen;
+        @apply h-20 w-20 mx-auto ring-8 ring-sky-700 rounded-full p-2 mb-5 laptop:w-24 laptop:h-24 dark:ring-jungleGreen;
     }
     .services-facts-item-text {
         @apply font-medium whitespace-pre-line -mt-4 laptop:mt-0 laptop:whitespace-normal laptop:text-lg;
