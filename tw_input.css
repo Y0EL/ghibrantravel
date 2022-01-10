@@ -78,7 +78,7 @@
         @apply h-20 w-20 mx-auto ring-8 ring-sky-700 rounded-full p-2 mb-5 laptop:w-24 laptop:h-24 dark:ring-jungleGreen;
     }
     .services-facts-item-text {
-        @apply font-medium whitespace-pre-line -mt-4 laptop:mt-0 laptop:whitespace-normal laptop:text-lg;
+        @apply font-medium whitespace-pre-line laptop:whitespace-normal laptop:text-lg;
     }
     /* services end */
     /* contact start */
