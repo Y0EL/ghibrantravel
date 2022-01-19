@@ -63,8 +63,8 @@
     .mobile-portfolio-item-link {
         @apply w-full bg-gray-900 bg-opacity-70 text-center font-[600] py-1 hover:bg-opacity-75; 
     }
-    .laptop-portfolio-slite-item {
-        @apply flex flex-col items-center justify-center w-full h-full bg-lochinvar pb-40 px-7;
+    .laptop-portfolio-slide-item {
+        @apply flex flex-col items-center justify-start w-full h-full bg-lochinvar pt-40 px-10 text-center;
     }
     /* portfolio end */
     /* services start */
